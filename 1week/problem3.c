@@ -1,3 +1,5 @@
+/// # 두 수의 곱
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
