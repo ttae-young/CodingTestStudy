@@ -1,4 +1,4 @@
-// # Áø·á ¼ø¼­ Á¤ÇÏ±â
+// # ì§„ë£Œ ìˆœì„œ ì •í•˜ê¸°
 
 #include <stdio.h>
 #include <stdbool.h>
