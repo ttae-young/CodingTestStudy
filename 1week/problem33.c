@@ -1,4 +1,4 @@
-// # °³¹Ì ±º´Ü
+// # ê°œë¯¸ êµ°ë‹¨
 
 #include <stdio.h>
 #include <stdbool.h>
