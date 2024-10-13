@@ -1,4 +1,4 @@
-// 최댓값 만들기 (2)
+// # 최댓값 만들기 (2)
 
 #include <stdio.h>
 #include <stdbool.h>
